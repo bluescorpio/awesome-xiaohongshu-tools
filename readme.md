@@ -12,18 +12,18 @@ Xiaohongshu is a major lifestyle and e-commerce social platform. This list curat
 
 ## Contents
 
-- [Web Downloaders](#web-downloaders)
+- [Downloaders](#downloaders)
 - [Open Source Downloaders & Crawlers](#open-source-downloaders--crawlers)
 - [Libraries & SDKs](#libraries--sdks)
 - [MCP & AI](#mcp--ai)
 - [Browser Extensions](#browser-extensions)
 
-## Web Downloaders
+## Downloaders
 
-Browser-based tools for saving Xiaohongshu videos, images, and albums.
+Tools for downloading Xiaohongshu/RedNote videos, images, and albums without watermark.
 
-- [XHS Downloader](https://xiaohongshudownloader.com) - Web downloader for Xiaohongshu videos, images, and multi-photo albums without requiring an account.
-- [SeekIn](https://www.seekin.ai) - Multi-platform media downloader with Xiaohongshu support and optional audio extraction.
+- [XHS Downloader](https://xiaohongshudownloader.com) - Free web-based downloader. No watermark, no sign-up, no app install. Supports video (MP4), images (WebP/JPG), and multi-photo album batch download with ZIP export. Works on iPhone, Android, and desktop.
+- [SeekIn](https://seekin.ai) - Multi-platform media downloader with Xiaohongshu support and optional audio extraction.
 - [RedNote Downloader](https://rednotedownloader.com) - Web downloader focused on RedNote / Xiaohongshu videos and photos.
 
 ## Open Source Downloaders & Crawlers
